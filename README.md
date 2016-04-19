@@ -1,6 +1,8 @@
 Quick fix to change color of a logo.
 ------------------------------------
 
+### On Master branch
+
 * Based on CSS-Tricks article
 [http://codepen.io/noahblon/post/coloring-svgs-in-css-background-images]
 
@@ -10,5 +12,9 @@ Quick fix to change color of a logo.
 
 * Correct hue/saturation etc. values will specify the output color (fill to be removed from SVG)
 
+### On Version2 branch
 
+* Simplified code in CSS, no need for hue/saturation background-color CSS property used instead
+
+* No need to change base colour in RadioTimes SVG, overriden by background-color property
 
