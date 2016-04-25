@@ -16,5 +16,5 @@ Quick fix to change color of a logo.
 
 * Simplified code in CSS, no need for hue/saturation background-color CSS property used instead
 
-* No need to change base colour in RadioTimes SVG, overriden by background-color property
+* No need to change base colour in RadioTimes SVG, overriden by background-color property.
 
